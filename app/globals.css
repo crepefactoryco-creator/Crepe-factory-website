@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --baby-pink: #ffe4f0;
+  --rose-ink: #2b1b23;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background:
+    radial-gradient(900px circle at 10% 10%, rgba(255, 163, 210, 0.28), transparent 55%),
+    radial-gradient(800px circle at 90% 20%, rgba(255, 127, 192, 0.22), transparent 50%),
+    linear-gradient(180deg, #fff7fb 0%, #ffffff 45%, #fff7fb 100%);
+  color: var(--rose-ink);
+}
+
+/* Make images scale nicely in marketing layouts */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Subtle focus ring for accessibility */
+:focus-visible {
+  outline: 3px solid rgba(255, 127, 192, 0.45);
+  outline-offset: 2px;
+}
+

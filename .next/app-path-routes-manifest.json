@@ -1,0 +1,11 @@
+{
+  "/[locale]/contact/page": "/[locale]/contact",
+  "/[locale]/faq/page": "/[locale]/faq",
+  "/[locale]/investors/page": "/[locale]/investors",
+  "/[locale]/page": "/[locale]",
+  "/[locale]/privacy/page": "/[locale]/privacy",
+  "/[locale]/process/page": "/[locale]/process",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/page": "/"
+}

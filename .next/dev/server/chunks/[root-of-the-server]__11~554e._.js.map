@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 76, "column": 0}, "map": {"version":3,"sources":["file:///Users/kartikeygupta/Documents/Crepe_factory/lib/i18n/routing.ts"],"sourcesContent":["import { defineRouting } from \"next-intl/routing\";\n\nexport const routing = defineRouting({\n  locales: [\"en\", \"hi\"],\n  defaultLocale: \"en\",\n  localePrefix: \"always\",\n});\n\n"],"names":["routing","locales","defaultLocale","localePrefix"],"mappings":";;;;AAAA;;AAEO,MAAMA,UAAU,IAAA,mPAAa,EAAC;IACnCC,SAAS;QAAC;QAAM;KAAK;IACrBC,eAAe;IACfC,cAAc;AAChB"}},
+    {"offset": {"line": 94, "column": 0}, "map": {"version":3,"sources":["file:///Users/kartikeygupta/Documents/Crepe_factory/proxy.ts"],"sourcesContent":["import createMiddleware from \"next-intl/middleware\";\nimport { routing } from \"./lib/i18n/routing\";\n\nexport default createMiddleware(routing);\n\nexport const config = {\n  matcher: \"/((?!api|_next|_vercel|.*\\\\..*).*)\",\n};\n\n"],"names":["config","matcher"],"mappings":";;;;;;AAAA;AACA;;;uCAEe,IAAA,iMAAgB,EAAC,iIAAO;AAEhC,MAAMA,SAAS;IACpBC,SAAS;AACX"}}]
+}
