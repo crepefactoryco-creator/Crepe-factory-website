@@ -35,6 +35,18 @@ export default async function Navbar({ locale }: { locale: string }) {
               {t("home")}
             </Link>
             <Link
+              href={`/${locale}/about`}
+              className="text-sm font-semibold text-roseInk-900/80 hover:text-roseInk-900"
+            >
+              {t("about")}
+            </Link>
+            <Link
+              href={`/${locale}/business`}
+              className="text-sm font-semibold text-roseInk-900/80 hover:text-roseInk-900"
+            >
+              {t("business")}
+            </Link>
+            <Link
               href={`/${locale}/investors`}
               className="text-sm font-semibold text-roseInk-900/80 hover:text-roseInk-900"
             >

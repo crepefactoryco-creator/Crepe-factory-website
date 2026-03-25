@@ -1,6 +1,8 @@
 {
   "Nav": {
     "home": "Home",
+    "about": "About Us",
+    "business": "Our Café",
     "investors": "For Investors",
     "process": "Franchise Process",
     "faq": "FAQ",
@@ -70,6 +72,14 @@
     "title": "Page not found",
     "subtitle": "The link you opened doesn’t exist. Please go back to explore the franchise opportunity.",
     "goHome": "Back to Home"
+  },
+  "AboutPage": {
+    "title": "About Crepe Factory",
+    "subtitle": "Welcome to Crepe Factory — where the elegance of French cuisine meets the energy of modern café culture."
+  },
+  "BusinessPage": {
+    "title": "Crepe Factory French Café",
+    "subtitle": "Discover our premium dessert café offering authentic French crepes, gourmet waffles, and handcrafted beverages in Vadodara."
   }
 }
 
