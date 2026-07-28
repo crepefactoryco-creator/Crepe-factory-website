@@ -80,7 +80,7 @@ export default async function Footer({ locale }: { locale: string }) {
       </div>
       <div className="border-t border-babyPink-200/70 px-4 py-4 text-center">
         <p className="text-xs text-roseInk-900/60">
-          © 2022. Crepe Factory is an unit B A CHAUDHARI. All Rights reserved
+          © 2026. Crepe Factory is an unit of CREPE FACTORY.CO. All Rights reserved
         </p>
       </div>
     </footer>

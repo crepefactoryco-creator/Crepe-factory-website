@@ -126,7 +126,7 @@ export default async function BusinessPage({
 
           <div className="mt-12 rounded-3xl border border-babyPink-200/90 bg-white/65 p-8">
             <h3 className="text-2xl font-extrabold text-roseInk-900">
-              {locale === "hi" ? "हमें क्यों चुनें?" : "Why Choose Crepe Factory?"}
+              {locale === "hi" ? "हमें क्यों चुनें?" : "Why Choose Crepe Factory.co?"}
             </h3>
             <div className="mt-6 grid gap-3 md:grid-cols-2">
               {whyChoose.map((reason, idx) => (

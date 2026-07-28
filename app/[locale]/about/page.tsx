@@ -68,8 +68,8 @@ export default async function AboutPage({
           <div className="mt-12 rounded-3xl border border-babyPink-200/90 bg-gradient-to-br from-babyPink-100/60 to-white/60 p-8">
             <h3 className="text-2xl font-extrabold text-roseInk-900">
               {locale === "hi"
-                ? "आप का हिस्सा है Crepe Factory की कहानी"
-                : "You're Part of the Crepe Factory Story"}
+                ? "आप का हिस्सा है Crepe Factory.co की कहानी"
+                : "You're Part of the Crepe Factory.co Story"}
             </h3>
             <p className="mt-4 max-w-2xl leading-relaxed text-roseInk-900/80">
               {locale === "hi"

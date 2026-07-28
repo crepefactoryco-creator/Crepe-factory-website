@@ -16,9 +16,9 @@
     "call": "Call"
   },
   "HomePage": {
-    "heroTitle": "Bring Crepe Factory to your city",
+    "heroTitle": "Bring Crepe Factory.co to your city",
     "heroSubtitle": "A tested franchise model with training, marketing support, and day-to-day operational guidance.",
-    "benefitsTitle": "Why franchise with Crepe Factory?",
+    "benefitsTitle": "Why franchise with Crepe Factory.co?",
     "benefit1Title": "Proven model",
     "benefit1Desc": "Standard recipes, quality checks, and repeatable workflows.",
     "benefit2Title": "Training & onboarding",
@@ -74,11 +74,11 @@
     "goHome": "Back to Home"
   },
   "AboutPage": {
-    "title": "About Crepe Factory",
+    "title": "About Crepe Factory.co",
     "subtitle": "Welcome to Crepe Factory — where the elegance of French cuisine meets the energy of modern café culture."
   },
   "BusinessPage": {
-    "title": "Crepe Factory French Café",
+    "title": "Crepe Factory.co French Café",
     "subtitle": "Discover our premium dessert café offering authentic French crepes, gourmet waffles, and handcrafted beverages in Vadodara."
   }
 }
